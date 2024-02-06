@@ -1,5 +1,3 @@
-# Team Leader of Passion Software
-
 ## 🛠 Skills
 - ## Programming Languages
 <p align="left"> 
